@@ -3,3 +3,5 @@ This is my paper about Mars.
 Mars is one of the planets in the solar system.
 
 It is a rather small planet.
+
+I should start writing something scientific.
